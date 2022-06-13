@@ -6,4 +6,4 @@ function dodawanie (num1, num2) {
     return suma;
 }
 
-console.log(dodawanie(firstNumber, secondNumber))
+console.log(dodawanie(firstNumber, secondNumber));
